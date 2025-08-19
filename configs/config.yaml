@@ -1,0 +1,3 @@
+dataset: law_db
+train: train_data
+retriever: tfidf
